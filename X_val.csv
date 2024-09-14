@@ -1,0 +1,598 @@
+Degree,Specialization,state_abbr,12percentage,Specialization_Degree,Performance_Bin,Performance_Specialization,Degree_State
+B.Tech/B.E.,information technology, NSW,0.6787655936294527,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, SA,0.5993593358749353,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,automobile/automotive engineering, NT,0.2817343048568658,automobile/automotive engineering_B.Tech/B.E.,50-60,50-60_automobile/automotive engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, WA,0.45498432177581283,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NT,0.7437343499740577,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, WA,0.6354530893997158,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, WA,0.4333280696609444,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ WA
+MCA,computer application, SA,0.5560468316451984,computer application_MCA,70-80,70-80_computer application,MCA_ SA
+MCA,computer application, NT,0.09404678652800669,computer application_MCA,Below 50,Below 50_computer application,MCA_ NT
+B.Tech/B.E.,mechanical engineering, NSW,0.38875228405784046,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, VIC,0.6986171580680819,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, TAS,0.693203095039365,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, NT,0.3791874393737734,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+M.Tech./M.E.,electronics and communication engineering, ACT,0.5379999548828082,electronics and communication engineering_M.Tech./M.E.,70-80,70-80_electronics and communication engineering,M.Tech./M.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, TAS,0.9332265559791558,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, ACT,0.46039838480452977,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,mechanical engineering, NSW,0.16623429357756792,mechanical engineering_B.Tech/B.E.,50-60,50-60_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, WA,0.3452593110604797,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.31656477700827923,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, SA,0.4224999436035103,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,mechanical engineering, NT,0.6715468429244965,mechanical engineering_B.Tech/B.E.,70-80,70-80_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, WA,0.5091249520629838,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, NT,0.9436937445013421,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics & telecommunications, VIC,0.31421868302916856,electronics & telecommunications_B.Tech/B.E.,60-70,60-70_electronics & telecommunications,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, NSW,0.27451555415190987,computer engineering_B.Tech/B.E.,50-60,50-60_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, VIC,0.5560468316451984,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ VIC
+MCA,computer application, TAS,0.5091249520629838,computer application_MCA,70-80,70-80_computer application,MCA_ TAS
+B.Tech/B.E.,computer engineering, NSW,0.46581244783324693,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,mechanical engineering, SA,0.9404453066841122,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, WA,0.25285930203704143,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and electrical engineering, NT,0.5452187055877643,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ NT
+MCA,computer application, QLD,0.32504680908660266,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,information technology, ACT,0.584921834465023,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, ACT,0.8128538879740125,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, VIC,0.9260078052741997,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, VIC,0.5416093302352861,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ VIC
+MCA,computer application, QLD,0.12111710167159218,computer application_MCA,Below 50,Below 50_computer application,MCA_ QLD
+B.Tech/B.E.,electronics and electrical engineering, NSW,0.7184687225067111,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.7888515418800334,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ ACT
+MCA,computer application, SA,0.581312459112545,computer application_MCA,70-80,70-80_computer application,MCA_ SA
+B.Tech/B.E.,mechanical engineering, NSW,0.7361546617338538,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, VIC,0.49107807530059333,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, VIC,0.4369374450134226,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, ACT,0.5298788603397327,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, QLD,0.4668952604389903,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ QLD
+M.Tech./M.E.,electronics and communication engineering, QLD,0.6986171580680819,electronics and communication engineering_M.Tech./M.E.,80-100,80-100_electronics and communication engineering,M.Tech./M.E._ QLD
+B.Tech/B.E.,information technology, WA,0.5948476166843376,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, WA,0.5993593358749353,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics & instrumentation eng, QLD,0.6697421552482575,electronics & instrumentation eng_B.Tech/B.E.,70-80,70-80_electronics & instrumentation eng,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, VIC,0.33767962282027575,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, NT,0.6354530893997158,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, NT,0.9476640573890681,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and electrical engineering, NSW,0.5452187055877643,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, QLD,0.4297186943084662,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,mechanical & production engineering, TAS,0.1301405400527873,mechanical & production engineering_B.Tech/B.E.,Below 50,Below 50_mechanical & production engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, SA,0.5271718288253741,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,mechanical engineering, ACT,0.8339687337860092,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NT,0.3467030612014711,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, ACT,0.5271718288253741,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, NT,0.47664057389068126,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and electrical engineering, TAS,0.6083827742561304,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ TAS
+MCA,computer application, QLD,0.3827968147262516,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,electronics and communication engineering, TAS,0.45498432177581283,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and electrical engineering, VIC,0.7473437253265357,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, VIC,0.4080624421935982,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics & telecommunications, QLD,0.5740937084075887,electronics & telecommunications_B.Tech/B.E.,70-80,70-80_electronics & telecommunications,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, TAS,0.3575311872589052,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, ACT,0.7852421665275554,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and electrical engineering, NSW,0.1824764826637192,electronics and electrical engineering_B.Tech/B.E.,50-60,50-60_electronics and electrical engineering,B.Tech/B.E._ NSW
+M.Tech./M.E.,computer science & engineering, NT,0.2546639897132804,computer science & engineering_M.Tech./M.E.,50-60,50-60_computer science & engineering,M.Tech./M.E._ NT
+B.Tech/B.E.,computer science & engineering, WA,0.3467030612014711,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NSW,0.45498432177581283,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, WA,0.36474993796386135,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+MCA,computer application, NSW,0.40084369148864185,computer application_MCA,60-70,60-70_computer application,MCA_ NSW
+MCA,computer application, WA,0.2925624309143001,computer application_MCA,50-60,50-60_computer application,MCA_ WA
+B.Tech/B.E.,mechanical engineering, NSW,0.6083827742561304,mechanical engineering_B.Tech/B.E.,70-80,70-80_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, WA,0.5452187055877643,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, WA,0.7978749802612285,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics & telecommunications, TAS,0.6513343409506193,electronics & telecommunications_B.Tech/B.E.,70-80,70-80_electronics & telecommunications,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, VIC,0.942249994360351,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, TAS,0.24058742583861592,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, VIC,0.6354530893997158,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, TAS,0.4327866633580727,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+MCA,computer application, ACT,0.20232804710234853,computer application_MCA,50-60,50-60_computer application,MCA_ ACT
+B.Tech/B.E.,electronics and communication engineering, NT,0.49107807530059333,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and electrical engineering, QLD,0.33948431049651495,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, NSW,0.37557806402129545,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, ACT,0.6715468429244965,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, TAS,0.27451555415190987,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, SA,0.45498432177581283,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, VIC,0.7437343499740577,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, WA,0.4946874506530715,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, WA,0.3286561844390806,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,biotechnology, WA,0.46581244783324693,biotechnology_B.Tech/B.E.,60-70,60-70_biotechnology,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and instrumentation engineering, WA,0.4369374450134226,electronics and instrumentation engineering_B.Tech/B.E.,60-70,60-70_electronics and instrumentation engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, QLD,0.51634370276794,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer engineering, SA,0.4369374450134226,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electrical engineering, SA,0.8399242031175979,electrical engineering_B.Tech/B.E.,80-100,80-100_electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, WA,0.41167181754607596,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, NSW,0.4224999436035103,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, ACT,0.6895937196868868,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+MCA,computer application, WA,0.5271718288253741,computer application_MCA,70-80,70-80_computer application,MCA_ WA
+MCA,computer application, ACT,0.12418507072119855,computer application_MCA,Below 50,Below 50_computer application,MCA_ ACT
+B.Tech/B.E.,computer engineering, TAS,0.6787655936294527,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics & telecommunications, SA,0.6751562182769745,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ SA
+B.Tech/B.E.,mechatronics, QLD,0.7738726341672496,mechatronics_B.Tech/B.E.,80-100,80-100_mechatronics,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, QLD,0.6895937196868868,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, ACT,0.5271718288253741,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, QLD,0.33894290419364326,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, VIC,0.7850616977599315,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, VIC,0.6950077827156037,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, NSW,0.4188905682510321,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, WA,0.1301405400527873,computer science & engineering_B.Tech/B.E.,Below 50,Below 50_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, VIC,0.6174062126373255,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics & telecommunications, VIC,0.40084369148864185,electronics & telecommunications_B.Tech/B.E.,60-70,60-70_electronics & telecommunications,B.Tech/B.E._ VIC
+MCA,computer application, VIC,0.09404678652800669,computer application_MCA,Below 50,Below 50_computer application,MCA_ VIC
+MCA,computer application, VIC,0.458593697128291,computer application_MCA,60-70,60-70_computer application,MCA_ VIC
+B.Tech/B.E.,electronics and communication engineering, VIC,0.2925624309143001,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and electrical engineering, NT,0.6174062126373255,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, VIC,0.3171061833111509,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, QLD,0.5596562069976766,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, TAS,0.81411716934738,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electrical engineering, ACT,0.5632655823501546,electrical engineering_B.Tech/B.E.,70-80,70-80_electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, NSW,0.3557264995826662,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, NSW,0.4188905682510321,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, SA,0.3467030612014711,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics & telecommunications, SA,0.6986171580680819,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, WA,0.6625234045433014,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, WA,0.2203749238647389,mechanical engineering_B.Tech/B.E.,50-60,50-60_mechanical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, NSW,0.5993593358749353,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, VIC,0.5392632362561757,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, ACT,0.3719686886688175,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NSW,0.7220780978591893,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NSW
+MCA,computer application, SA,0.16623429357756792,computer application_MCA,50-60,50-60_computer application,MCA_ SA
+B.Tech/B.E.,mechanical engineering, TAS,0.4576913532901715,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, SA,0.32504680908660266,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+M.Tech./M.E.,electronics, ACT,0.37070540729545,electronics_M.Tech./M.E.,60-70,60-70_electronics,M.Tech./M.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, ACT,0.49107807530059333,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ ACT
+MCA,computer application, QLD,0.3575311872589052,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,information technology, WA,0.3286561844390806,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, SA,0.5632655823501546,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and electrical engineering, NT,0.707640596449277,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, NSW,0.9061562408355704,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NSW
+MCA,computer application, QLD,0.2203749238647389,computer application_MCA,50-60,50-60_computer application,MCA_ QLD
+B.Tech/B.E.,electronics and instrumentation engineering, ACT,0.707640596449277,electronics and instrumentation engineering_B.Tech/B.E.,80-100,80-100_electronics and instrumentation engineering,B.Tech/B.E._ ACT
+MCA,computer application, SA,0.25285930203704143,computer application_MCA,50-60,50-60_computer application,MCA_ SA
+B.Tech/B.E.,information technology, VIC,0.49107807530059333,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,mechanical engineering, ACT,0.3467030612014711,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, NT,0.3467030612014711,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, NT,0.39001556543120774,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NT
+MCA,computer application, WA,0.4369374450134226,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,information technology, VIC,0.4578718220577952,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+MCA,computer application, VIC,0.22633039319632764,computer application_MCA,50-60,50-60_computer application,MCA_ VIC
+B.Tech/B.E.,information technology, QLD,0.36294525028762215,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ QLD
+MCA,computer application, WA,0.16623429357756792,computer application_MCA,50-60,50-60_computer application,MCA_ WA
+B.Tech/B.E.,computer science & engineering, NT,0.7689999774414041,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, TAS,0.462203072480769,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,mechanical engineering, TAS,0.44722416476798477,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, NSW,0.23842180062712914,computer engineering_B.Tech/B.E.,50-60,50-60_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, NT,0.9061562408355704,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, WA,0.7689999774414041,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information science engineering, VIC,0.3286561844390806,information science engineering_B.Tech/B.E.,60-70,60-70_information science engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, VIC,0.8231406077285751,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+MCA,computer application, TAS,0.16623429357756792,computer application_MCA,50-60,50-60_computer application,MCA_ TAS
+B.Tech/B.E.,information technology, WA,0.36474993796386135,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, QLD,0.409867129869837,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, QLD,0.18428117033995828,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,information technology, TAS,0.7004218457443209,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, VIC,0.3827968147262516,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics & telecommunications, TAS,0.6715468429244965,electronics & telecommunications_B.Tech/B.E.,70-80,70-80_electronics & telecommunications,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, NSW,0.40084369148864185,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, WA,0.5452187055877643,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, WA,0.42719213156173164,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electrical engineering, WA,0.5488280809402425,electrical engineering_B.Tech/B.E.,70-80,70-80_electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NT,0.8007624805432109,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, TAS,0.36474993796386135,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, NT,0.3286561844390806,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, WA,0.38821087775496854,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, NSW,0.5722890207313497,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electrical engineering, WA,0.6679374675720183,electrical engineering_B.Tech/B.E.,70-80,70-80_electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, VIC,0.5452187055877643,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ VIC
+MCA,computer application, QLD,0.4688804168828532,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,mechanical engineering, NT,0.4925218254415845,mechanical engineering_B.Tech/B.E.,70-80,70-80_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, ACT,0.2925624309143001,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, WA,0.5452187055877643,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.46761713550948614,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, VIC,0.49107807530059333,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, VIC,0.6941054388774844,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, QLD,0.5993593358749353,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, VIC,0.4459608833946177,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,mechanical engineering, NSW,0.3827968147262516,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, SA,0.7148593471542334,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, TAS,0.40084369148864185,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, WA,0.5452187055877643,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and electrical engineering, VIC,0.3827968147262516,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ VIC
+MCA,computer application, NSW,0.6751562182769745,computer application_MCA,80-100,80-100_computer application,MCA_ NSW
+B.Tech/B.E.,electronics and communication engineering, NT,0.6895937196868868,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NT
+MCA,computer application, TAS,0.26242414672110825,computer application_MCA,50-60,50-60_computer application,MCA_ TAS
+B.Tech/B.E.,computer science & engineering, TAS,0.3972343161361639,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, QLD,0.8050937309661849,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics & telecommunications, NSW,0.5307812041778522,electronics & telecommunications_B.Tech/B.E.,70-80,70-80_electronics & telecommunications,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, SA,0.8393827968147262,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, VIC,0.9061562408355704,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and electrical engineering, SA,0.5271718288253741,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics engineering, TAS,0.409867129869837,electronics engineering_B.Tech/B.E.,60-70,60-70_electronics engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, QLD,0.2925624309143001,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and electrical engineering, VIC,0.4694218231857249,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, ACT,0.3827968147262516,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics & telecommunications, SA,0.8321640461097702,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.2817343048568658,electronics and electrical engineering_B.Tech/B.E.,50-60,50-60_electronics and electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NSW,0.4730311985382031,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, SA,0.33767962282027575,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, SA,0.40084369148864185,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, SA,0.8105077939949018,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, ACT,0.6444765277809109,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ ACT
+MCA,computer application, QLD,0.3791874393737734,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,information technology, SA,0.5993593358749353,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and electrical engineering, SA,0.5271718288253741,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.6679374675720183,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, TAS,0.6913984073631257,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, NT,0.7453585688826728,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, TAS,0.31060930767669037,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, NSW,0.40084369148864185,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, NSW,0.7311015362403844,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,mechanical engineering, QLD,0.2654921157707145,mechanical engineering_B.Tech/B.E.,50-60,50-60_mechanical engineering,B.Tech/B.E._ QLD
+MCA,computer application, TAS,0.4297186943084662,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+B.Tech/B.E.,information technology, VIC,0.2203749238647389,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, ACT,0.7419296622978188,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NSW,0.9332265559791558,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics engineering, TAS,0.31060930767669037,electronics engineering_B.Tech/B.E.,50-60,50-60_electronics engineering,B.Tech/B.E._ TAS
+MCA,computer application, NSW,0.4856640122718764,computer application_MCA,60-70,60-70_computer application,MCA_ NSW
+B.Tech/B.E.,computer science & engineering, SA,0.7798281034988382,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, NT,0.4369374450134226,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, NT,0.5798687089715538,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, SA,0.3286561844390806,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ SA
+MCA,computer application, WA,0.3972343161361639,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,computer science & engineering, TAS,0.5524374562927205,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, WA,0.6986171580680819,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.5416093302352861,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NSW
+MCA,computer application, NSW,0.31060930767669037,computer application_MCA,50-60,50-60_computer application,MCA_ NSW
+B.Tech/B.E.,information technology, SA,0.8032890432899457,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and computer engineering, SA,0.5361952672065692,electronics and computer engineering_B.Tech/B.E.,70-80,70-80_electronics and computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information science engineering, WA,0.11209366329039705,information science engineering_B.Tech/B.E.,Below 50,Below 50_information science engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, VIC,0.4982968260055497,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, TAS,0.3613210313790073,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ TAS
+MCA,computer application, WA,0.4730311985382031,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.3033905569717342,electronics and electrical engineering_B.Tech/B.E.,50-60,50-60_electronics and electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, WA,0.3918202531074467,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electrical engineering, ACT,0.23842180062712914,electrical engineering_B.Tech/B.E.,50-60,50-60_electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,mechanical engineering, ACT,0.46581244783324693,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, SA,0.7798281034988382,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, WA,0.40445306684112003,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+MCA,computer application, QLD,0.49107807530059333,computer application_MCA,60-70,60-70_computer application,MCA_ QLD
+B.Tech/B.E.,computer science & engineering, QLD,0.6119921496086086,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, QLD,0.37557806402129545,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, TAS,0.40084369148864185,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+MCA,computer application, NT,0.5410679239324144,computer application_MCA,70-80,70-80_computer application,MCA_ NT
+B.Tech/B.E.,computer science & engineering, SA,0.4109499424755806,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, NSW,0.48746869994811537,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, VIC,0.7798281034988382,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, NT,0.331543684721063,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, NSW,0.32504680908660266,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, TAS,0.4441561957183787,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, NT,0.4730311985382031,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+M.Tech./M.E.,computer science & engineering, SA,0.7726093527938821,computer science & engineering_M.Tech./M.E.,80-100,80-100_computer science & engineering,M.Tech./M.E._ SA
+B.Tech/B.E.,electronics and communication engineering, QLD,0.45498432177581283,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,information technology, QLD,0.2564686773895194,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, WA,0.36474993796386135,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, SA,0.5361952672065692,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ SA
+MCA,computer application, TAS,0.2584538338333825,computer application_MCA,50-60,50-60_computer application,MCA_ TAS
+B.Tech/B.E.,information technology, SA,0.20232804710234853,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, NSW,0.5957499605224571,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, WA,0.6462812154571499,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and electrical engineering, WA,0.6895937196868868,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and electrical engineering, VIC,0.6233616819689144,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, WA,0.5921405851699789,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+M.Tech./M.E.,computer science & engineering, QLD,0.38875228405784046,computer science & engineering_M.Tech./M.E.,60-70,60-70_computer science & engineering,M.Tech./M.E._ QLD
+B.Tech/B.E.,computer engineering, NSW,0.8881093640731802,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, VIC,0.5805905840420492,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer science & engineering, ACT,0.9242031175979607,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, ACT,0.9061562408355704,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, ACT,0.7256874732116673,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, ACT,0.40084369148864185,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NT,0.761781226736448,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,mechanical engineering, SA,0.8574296735771166,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, NT,0.7653906020889262,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, TAS,0.8971328024543753,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,mechanical engineering, ACT,0.581312459112545,mechanical engineering_B.Tech/B.E.,70-80,70-80_mechanical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, WA,0.45137494642333464,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, TAS,0.8579710798799883,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, WA,0.3827968147262516,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, QLD,0.32504680908660266,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer engineering, WA,0.639062464752194,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, QLD,0.5199530781204179,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, WA,0.9873671862663268,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+MCA,computer application, NT,0.5343905795303302,computer application_MCA,70-80,70-80_computer application,MCA_ NT
+B.Tech/B.E.,information technology, ACT,0.5921405851699789,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, SA,0.581312459112545,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, TAS,0.693203095039365,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, NSW,0.31151165151480986,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, WA,0.36474993796386135,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, SA,0.7401249746215796,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, TAS,0.5993593358749353,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, TAS,0.5452187055877643,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, VIC,0.7365155992691014,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, NT,0.7532991946581246,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, QLD,0.4105890049403328,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer engineering, NSW,0.9097656161880484,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NSW
+MCA,computer application, VIC,0.815921857023619,computer application_MCA,80-100,80-100_computer application,MCA_ VIC
+B.Tech/B.E.,computer science & engineering, ACT,0.73182341131088,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, NT,0.6174062126373255,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ NT
+MCA,computer application, TAS,0.13916397843398254,computer application_MCA,50-60,50-60_computer application,MCA_ TAS
+B.Tech/B.E.,computer engineering, NSW,0.5271718288253741,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NSW
+M.Tech./M.E.,computer engineering, TAS,0.9061562408355704,computer engineering_M.Tech./M.E.,80-100,80-100_computer engineering,M.Tech./M.E._ TAS
+B.Tech/B.E.,computer science & engineering, TAS,0.5488280809402425,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, WA,0.9494687450653073,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, WA,0.37557806402129545,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NT,0.3683593133163393,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, QLD,0.7978749802612285,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ QLD
+MCA,computer application, VIC,0.2203749238647389,computer application_MCA,50-60,50-60_computer application,MCA_ VIC
+B.Tech/B.E.,electronics & telecommunications, WA,0.6805702813056916,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ WA
+MCA,computer application, TAS,0.4730311985382031,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+MCA,computer application, NSW,0.8628437366058336,computer application_MCA,80-100,80-100_computer application,MCA_ NSW
+B.Tech/B.E.,information technology, WA,0.7437343499740577,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, ACT,0.942249994360351,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, NT,0.722619504162061,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,mechanical engineering, SA,0.9270906178799431,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, ACT,0.8881093640731802,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electrical engineering, ACT,0.581312459112545,electrical engineering_B.Tech/B.E.,70-80,70-80_electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,mechanical engineering, QLD,0.942249994360351,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer engineering, WA,0.462203072480769,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, TAS,0.5740937084075887,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, WA,0.36474993796386135,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, VIC,0.6354530893997158,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, NT,0.815921857023619,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, QLD,0.7545624760314918,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, SA,0.942249994360351,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, VIC,0.761781226736448,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, NT,0.4344108822666878,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, ACT,0.4297186943084662,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, NSW,0.8339687337860092,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, ACT,0.4851226059690047,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,mechanical and automation, WA,0.6859843443344086,mechanical and automation_B.Tech/B.E.,80-100,80-100_mechanical and automation,B.Tech/B.E._ WA
+MCA,computer application, ACT,0.8447968598434433,computer application_MCA,80-100,80-100_computer application,MCA_ ACT
+B.Tech/B.E.,computer engineering, ACT,0.4037311917706242,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, TAS,0.59773511696632,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, QLD,0.36474993796386135,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ QLD
+MCA,computer application, SA,0.27451555415190987,computer application_MCA,50-60,50-60_computer application,MCA_ SA
+MCA,computer application, WA,0.34959056148345347,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+MCA,computer application, WA,0.4188905682510321,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,electronics & telecommunications, ACT,0.6271515260890165,electronics & telecommunications_B.Tech/B.E.,70-80,70-80_electronics & telecommunications,B.Tech/B.E._ ACT
+MCA,computer application, WA,0.0059780279275419845,computer application_MCA,Below 50,Below 50_computer application,MCA_ WA
+B.Tech/B.E.,information technology, ACT,0.5452187055877643,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, TAS,0.3467030612014711,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, ACT,0.5199530781204179,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, ACT,0.949649213832931,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, SA,0.6877890320106478,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.31060930767669037,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, TAS,0.9260078052741997,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ TAS
+MCA,computer application, SA,0.4188905682510321,computer application_MCA,60-70,60-70_computer application,MCA_ SA
+B.Tech/B.E.,computer science & engineering, SA,0.3322655597915588,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, NSW,0.5704843330551109,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, NT,0.6462812154571499,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,aeronautical engineering, TAS,0.7978749802612285,aeronautical engineering_B.Tech/B.E.,80-100,80-100_aeronautical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, VIC,0.6534999661621063,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ VIC
+MCA,computer application, WA,0.5632655823501546,computer application_MCA,70-80,70-80_computer application,MCA_ WA
+B.Tech/B.E.,computer science & engineering, VIC,0.45498432177581283,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, VIC,0.4423515080421395,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, WA,0.31078977644431427,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, VIC,0.3918202531074467,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, NSW,0.44108822666877245,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, NT,0.3196327460578855,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, SA,0.45498432177581283,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics & telecommunications, VIC,0.35265853053305973,electronics & telecommunications_B.Tech/B.E.,60-70,60-70_electronics & telecommunications,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, TAS,0.4982968260055497,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and electrical engineering, NT,0.2925624309143001,electronics and electrical engineering_B.Tech/B.E.,50-60,50-60_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,biomedical engineering, NT,0.532585891854091,biomedical engineering_B.Tech/B.E.,70-80,70-80_biomedical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, TAS,0.5576710505538135,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+MCA,computer application, SA,0.31060930767669037,computer application_MCA,50-60,50-60_computer application,MCA_ SA
+B.Tech/B.E.,electronics and communication engineering, ACT,0.6065780865798914,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, ACT,0.761781226736448,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, NT,0.33948431049651495,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, SA,0.5488280809402425,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electrical engineering, WA,0.8881093640731802,electrical engineering_B.Tech/B.E.,80-100,80-100_electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, NT,0.5704843330551109,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, VIC,0.45498432177581283,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ VIC
+M.Tech./M.E.,information technology, WA,0.3557264995826662,information technology_M.Tech./M.E.,60-70,60-70_information technology,M.Tech./M.E._ WA
+B.Tech/B.E.,computer science & engineering, TAS,0.8538202982246385,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,biotechnology, NT,0.581312459112545,biotechnology_B.Tech/B.E.,70-80,70-80_biotechnology,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, WA,0.6192109003135645,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, NT,0.3827968147262516,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NT
+B.Tech/B.E.,civil engineering, SA,0.37738275169753466,civil engineering_B.Tech/B.E.,60-70,60-70_civil engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, NSW,0.4820546369193982,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, NSW,0.462203072480769,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, NT,0.6101874619323694,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NT
+MCA,computer application, TAS,0.36474993796386135,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+B.Tech/B.E.,electronics & telecommunications, NSW,0.8863046763969412,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, ACT,0.31060930767669037,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, VIC,0.815921857023619,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, NT,0.6913984073631257,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ NT
+B.Tech/B.E.,mechanical engineering, QLD,0.4369374450134226,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ QLD
+M.Tech./M.E.,computer science & engineering, NSW,0.5921405851699789,computer science & engineering_M.Tech./M.E.,70-80,70-80_computer science & engineering,M.Tech./M.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, NT,0.8745742065013874,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, TAS,0.3467030612014711,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, ACT,0.35265853053305973,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, VIC,0.40084369148864185,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, NSW,0.458593697128291,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, VIC,0.3827968147262516,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ VIC
+M.Tech./M.E.,computer engineering, NT,0.5668749577026327,computer engineering_M.Tech./M.E.,70-80,70-80_computer engineering,M.Tech./M.E._ NT
+B.Tech/B.E.,computer science & engineering, NT,0.2303007060840535,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, WA,0.4838593245956372,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ WA
+MCA,computer application, WA,0.2048546098490832,computer application_MCA,50-60,50-60_computer application,MCA_ WA
+B.Tech/B.E.,mechanical engineering, ACT,0.23842180062712914,mechanical engineering_B.Tech/B.E.,50-60,50-60_mechanical engineering,B.Tech/B.E._ ACT
+M.Tech./M.E.,computer science & engineering, VIC,0.2203749238647389,computer science & engineering_M.Tech./M.E.,50-60,50-60_computer science & engineering,M.Tech./M.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, NT,0.6354530893997158,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, TAS,0.40084369148864185,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, ACT,0.41167181754607596,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+MCA,computer application, TAS,0.3827968147262516,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+B.Tech/B.E.,computer science & engineering, WA,0.20232804710234853,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, TAS,0.36114056261138316,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,mechanical engineering, NSW,0.45498432177581283,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, SA,0.6174062126373255,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and instrumentation engineering, QLD,0.6643280922195401,electronics and instrumentation engineering_B.Tech/B.E.,70-80,70-80_electronics and instrumentation engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, QLD,0.5271718288253741,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,information technology, WA,0.41528119289855414,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, VIC,0.49107807530059333,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, NT,0.36474993796386135,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NT
+MCA,computer application, NSW,0.31060930767669037,computer application_MCA,50-60,50-60_computer application,MCA_ NSW
+B.Tech/B.E.,computer science & engineering, NT,0.3467030612014711,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+MCA,computer application, QLD,0.1806717949874801,computer application_MCA,50-60,50-60_computer application,MCA_ QLD
+B.Tech/B.E.,computer science & engineering, QLD,0.6571093415145842,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, ACT,0.31295540165580127,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.6112702745381128,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, VIC,0.6787655936294527,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ VIC
+MCA,computer application, VIC,0.18428117033995828,computer application_MCA,50-60,50-60_computer application,MCA_ VIC
+B.Tech/B.E.,electronics & telecommunications, QLD,0.6950077827156037,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, SA,0.4188905682510321,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+M.Tech./M.E.,electronics and communication engineering, WA,0.815921857023619,electronics and communication engineering_M.Tech./M.E.,80-100,80-100_electronics and communication engineering,M.Tech./M.E._ WA
+MCA,computer application, NT,0.14818741681517766,computer application_MCA,50-60,50-60_computer application,MCA_ NT
+MCA,computer application, TAS,0.4694218231857249,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+B.Tech/B.E.,electrical engineering, ACT,0.49107807530059333,electrical engineering_B.Tech/B.E.,60-70,60-70_electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, WA,0.4694218231857249,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, WA,0.8231406077285751,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer application, NSW,0.7004218457443209,computer application_B.Tech/B.E.,80-100,80-100_computer application,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, TAS,0.6246249633422817,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, VIC,0.9223984299217217,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, TAS,0.6354530893997158,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, VIC,0.39001556543120774,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, WA,0.6895937196868868,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, QLD,0.3196327460578855,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, NSW,0.45498432177581283,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electrical engineering, NT,0.16623429357756792,electrical engineering_B.Tech/B.E.,50-60,50-60_electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, VIC,0.4369374450134226,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,mechanical engineering, TAS,0.06390850233481493,mechanical engineering_B.Tech/B.E.,Below 50,Below 50_mechanical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, ACT,0.3467030612014711,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, ACT,0.5091249520629838,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electrical engineering, NT,0.3328069660944305,electrical engineering_B.Tech/B.E.,60-70,60-70_electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, WA,0.5091249520629838,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, SA,0.5668749577026327,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, NT,0.3467030612014711,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and electrical engineering, SA,0.5271718288253741,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.4441561957183787,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, WA,0.45498432177581283,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, WA,0.7962507613526134,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, WA,0.13735929075774345,computer engineering_B.Tech/B.E.,50-60,50-60_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, TAS,0.7843398226894359,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, QLD,0.7148593471542334,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, WA,0.31060930767669037,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, NSW,0.5091249520629838,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,electrical engineering, NT,0.3827968147262516,electrical engineering_B.Tech/B.E.,60-70,60-70_electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, WA,0.6137968372848474,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NSW,0.8520156105483995,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics & telecommunications, NSW,0.3286561844390806,electronics & telecommunications_B.Tech/B.E.,60-70,60-70_electronics & telecommunications,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, WA,0.4308015069142098,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, WA,0.8646484242820728,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, WA,0.6246249633422817,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, NT,0.4788061991021678,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, TAS,0.16623429357756792,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, TAS,0.2203749238647389,computer engineering_B.Tech/B.E.,50-60,50-60_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, TAS,0.4224999436035103,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, QLD,0.7256874732116673,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, TAS,0.5993593358749353,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, NT,0.6968124703918429,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, SA,0.27451555415190987,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, TAS,0.6329265266529812,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and electrical engineering, WA,0.6210155879898037,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ WA
+MCA,computer application, NT,0.20232804710234853,computer application_MCA,50-60,50-60_computer application,MCA_ NT
+B.Tech/B.E.,electronics and communication engineering, NT,0.5253671411491351,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NT
+MCA,computer application, NT,0.16623429357756792,computer application_MCA,50-60,50-60_computer application,MCA_ NT
+M.Tech./M.E.,other, TAS,0.581312459112545,other_M.Tech./M.E.,70-80,70-80_other,M.Tech./M.E._ TAS
+B.Tech/B.E.,electrical engineering, NSW,0.707640596449277,electrical engineering_B.Tech/B.E.,80-100,80-100_electrical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, VIC,0.7437343499740577,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,computer engineering, WA,0.7256874732116673,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, SA,0.9260078052741997,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,civil engineering, NT,0.8684382684021746,civil engineering_B.Tech/B.E.,80-100,80-100_civil engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer engineering, TAS,0.4188905682510321,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ TAS
+MCA,computer application, VIC,0.08682803582305065,computer application_MCA,Below 50,Below 50_computer application,MCA_ VIC
+B.Tech/B.E.,electronics and electrical engineering, NT,0.7762187281463601,electronics and electrical engineering_B.Tech/B.E.,80-100,80-100_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, WA,0.4730311985382031,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+MCA,computer application, WA,0.35031243655394906,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,civil engineering, ACT,0.5488280809402425,civil engineering_B.Tech/B.E.,70-80,70-80_civil engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, WA,0.4838593245956372,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, QLD,0.36474993796386135,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,information technology, NSW,0.36474993796386135,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, WA,0.4224999436035103,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, WA,0.581312459112545,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, TAS,0.45498432177581283,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, SA,0.23842180062712914,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, WA,0.5091249520629838,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electrical engineering, TAS,0.6137968372848474,electrical engineering_B.Tech/B.E.,70-80,70-80_electrical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, SA,0.37557806402129545,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, ACT,0.44054682036590054,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, SA,0.12111710167159218,electronics and communication engineering_B.Tech/B.E.,Below 50,Below 50_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,aeronautical engineering, VIC,0.6895937196868868,aeronautical engineering_B.Tech/B.E.,80-100,80-100_aeronautical engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, VIC,0.40084369148864185,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, SA,0.42610931895598847,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.5271718288253741,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NSW
+MCA,computer application, QLD,0.1951092963973925,computer application_MCA,50-60,50-60_computer application,MCA_ QLD
+MCA,computer application, TAS,0.4309819756818337,computer application_MCA,60-70,60-70_computer application,MCA_ TAS
+B.Tech/B.E.,electronics and communication engineering, NSW,0.4694218231857249,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, ACT,0.761781226736448,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, ACT,0.3827968147262516,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, SA,0.7996796679374675,information technology_B.Tech/B.E.,80-100,80-100_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics & telecommunications, WA,0.7496898193056464,electronics & telecommunications_B.Tech/B.E.,80-100,80-100_electronics & telecommunications,B.Tech/B.E._ WA
+B.Tech/B.E.,information technology, QLD,0.4297186943084662,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,computer science & engineering, VIC,0.47844526156692024,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and electrical engineering, TAS,0.2961718062667783,electronics and electrical engineering_B.Tech/B.E.,50-60,50-60_electronics and electrical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, VIC,0.4838593245956372,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, TAS,0.24924992668456347,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and electrical engineering, ACT,0.4188905682510321,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and instrumentation engineering, NT,0.1301405400527873,electronics and instrumentation engineering_B.Tech/B.E.,Below 50,Below 50_electronics and instrumentation engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,civil engineering, ACT,0.5632655823501546,civil engineering_B.Tech/B.E.,70-80,70-80_civil engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, TAS,0.5740937084075887,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, QLD,0.693203095039365,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, VIC,0.7292968485641455,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ VIC
+B.Tech/B.E.,electronics and communication engineering, NSW,0.3430936858489929,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, NT,0.35085384285682075,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, TAS,0.5740937084075887,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, TAS,0.5740937084075887,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,other, TAS,0.3972343161361639,other_B.Tech/B.E.,60-70,60-70_other,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, NT,0.27451555415190987,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ NT
+B.Tech/B.E.,information technology, WA,0.49107807530059333,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, SA,0.5452187055877643,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, WA,0.6534999661621063,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,electronics and communication engineering, ACT,0.14818741681517766,electronics and communication engineering_B.Tech/B.E.,50-60,50-60_electronics and communication engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer science & engineering, NT,0.3467030612014711,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, ACT,0.23842180062712914,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information science engineering, TAS,0.5212163594937852,information science engineering_B.Tech/B.E.,70-80,70-80_information science engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer science & engineering, NSW,0.8339687337860092,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer engineering, NSW,0.5740937084075887,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, ACT,0.6534999661621063,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics engineering, QLD,0.5921405851699789,electronics engineering_B.Tech/B.E.,70-80,70-80_electronics engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,information technology, QLD,0.29978118161925627,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics and communication engineering, TAS,0.9404453066841122,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,biotechnology, ACT,0.33587493514403677,biotechnology_B.Tech/B.E.,60-70,60-70_biotechnology,B.Tech/B.E._ ACT
+B.Tech/B.E.,instrumentation and control engineering, ACT,0.7919195109296399,instrumentation and control engineering_B.Tech/B.E.,80-100,80-100_instrumentation and control engineering,B.Tech/B.E._ ACT
+MCA,computer application, ACT,0.45498432177581283,computer application_MCA,60-70,60-70_computer application,MCA_ ACT
+B.Tech/B.E.,electronics and communication engineering, QLD,0.39091790926932724,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electronics engineering, ACT,0.24203117597960733,electronics engineering_B.Tech/B.E.,50-60,50-60_electronics engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,information technology, NSW,0.285343680209344,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ NSW
+B.Tech/B.E.,computer science & engineering, SA,0.3286561844390806,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+MCA,computer application, SA,0.0038124027160552076,computer application_MCA,Below 50,Below 50_computer application,MCA_ SA
+B.Tech/B.E.,electronics and instrumentation engineering, QLD,0.40445306684112003,electronics and instrumentation engineering_B.Tech/B.E.,60-70,60-70_electronics and instrumentation engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,electrical engineering, SA,0.42610931895598847,electrical engineering_B.Tech/B.E.,60-70,60-70_electrical engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, WA,0.8917187394256582,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer science & engineering, SA,0.4369374450134226,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, WA,0.6354530893997158,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, TAS,0.6715468429244965,mechanical engineering_B.Tech/B.E.,70-80,70-80_mechanical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,electronics and communication engineering, SA,0.882695301044463,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, TAS,0.5091249520629838,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ TAS
+MCA,computer application, WA,0.4333280696609444,computer application_MCA,60-70,60-70_computer application,MCA_ WA
+B.Tech/B.E.,information technology, SA,0.3286561844390806,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ SA
+B.Tech/B.E.,computer engineering, SA,0.5596562069976766,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electrical engineering, QLD,0.4369374450134226,electrical engineering_B.Tech/B.E.,60-70,60-70_electrical engineering,B.Tech/B.E._ QLD
+B.Tech/B.E.,automobile/automotive engineering, SA,0.33767962282027575,automobile/automotive engineering_B.Tech/B.E.,60-70,60-70_automobile/automotive engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, ACT,0.7581718513839698,computer science & engineering_B.Tech/B.E.,80-100,80-100_computer science & engineering,B.Tech/B.E._ ACT
+B.Tech/B.E.,computer engineering, SA,0.5091249520629838,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, NSW,0.21423898576552614,computer science & engineering_B.Tech/B.E.,50-60,50-60_computer science & engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,information technology, QLD,0.27451555415190987,information technology_B.Tech/B.E.,50-60,50-60_information technology,B.Tech/B.E._ QLD
+B.Tech/B.E.,mechanical engineering, WA,0.18789054569243635,mechanical engineering_B.Tech/B.E.,50-60,50-60_mechanical engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,computer engineering, SA,0.37557806402129545,computer engineering_B.Tech/B.E.,60-70,60-70_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and electrical engineering, TAS,0.45498432177581283,electronics and electrical engineering_B.Tech/B.E.,60-70,60-70_electronics and electrical engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,information technology, VIC,0.36474993796386135,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,mechanical engineering, NT,0.41582259920142584,mechanical engineering_B.Tech/B.E.,60-70,60-70_mechanical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,computer science & engineering, SA,0.45498432177581283,computer science & engineering_B.Tech/B.E.,60-70,60-70_computer science & engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,electronics and communication engineering, NSW,0.5210358907261613,electronics and communication engineering_B.Tech/B.E.,70-80,70-80_electronics and communication engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and communication engineering, WA,0.7689999774414041,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ WA
+B.Tech/B.E.,mechanical engineering, NSW,0.8628437366058336,mechanical engineering_B.Tech/B.E.,80-100,80-100_mechanical engineering,B.Tech/B.E._ NSW
+B.Tech/B.E.,electronics and electrical engineering, NT,0.5235624534728959,electronics and electrical engineering_B.Tech/B.E.,70-80,70-80_electronics and electrical engineering,B.Tech/B.E._ NT
+B.Tech/B.E.,electronics and communication engineering, SA,0.6986171580680819,electronics and communication engineering_B.Tech/B.E.,80-100,80-100_electronics and communication engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,information technology, VIC,0.3827968147262516,information technology_B.Tech/B.E.,60-70,60-70_information technology,B.Tech/B.E._ VIC
+B.Tech/B.E.,information technology, ACT,0.5482866746373708,information technology_B.Tech/B.E.,70-80,70-80_information technology,B.Tech/B.E._ ACT
+B.Tech/B.E.,electronics and communication engineering, TAS,0.37557806402129545,electronics and communication engineering_B.Tech/B.E.,60-70,60-70_electronics and communication engineering,B.Tech/B.E._ TAS
+B.Tech/B.E.,computer engineering, SA,0.5091249520629838,computer engineering_B.Tech/B.E.,70-80,70-80_computer engineering,B.Tech/B.E._ SA
+B.Tech/B.E.,computer science & engineering, SA,0.6679374675720183,computer science & engineering_B.Tech/B.E.,70-80,70-80_computer science & engineering,B.Tech/B.E._ SA
+MCA,computer application, ACT,0.5361952672065692,computer application_MCA,70-80,70-80_computer application,MCA_ ACT
+B.Tech/B.E.,computer engineering, NT,0.7870468542037946,computer engineering_B.Tech/B.E.,80-100,80-100_computer engineering,B.Tech/B.E._ NT
